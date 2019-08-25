@@ -1,0 +1,27 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "watch": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alamgir55/ToDo-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alamgir55/ToDo-App/issues"
+  },
+  "homepage": "https://github.com/Alamgir55/ToDo-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.1",
+    "nodemon": "^1.19.1"
+  }
+}
