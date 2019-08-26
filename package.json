@@ -21,7 +21,9 @@
   "homepage": "https://github.com/Alamgir55/ToDo-App#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongodb": "^3.3.1",
+    "mongodb": "^3.3.1"
+  },
+  "devDependencies": {
     "nodemon": "^1.19.1"
   }
 }
