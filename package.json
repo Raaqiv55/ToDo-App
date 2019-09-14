@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
+    "nodemon": "^1.19.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "watch": "nodemon server",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,12 +24,5 @@
   "bugs": {
     "url": "https://github.com/Alamgir55/ToDo-App/issues"
   },
-  "homepage": "https://github.com/Alamgir55/ToDo-App#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "mongodb": "^3.3.1"
-  },
-  "devDependencies": {
-    "nodemon": "^1.19.1"
-  }
+  "homepage": "https://github.com/Alamgir55/ToDo-App#readme"
 }
